@@ -8,7 +8,7 @@
       <link href="/2020/03/31/test/"/>
       <url>/2020/03/31/test/</url>
       
-        <content type="html"><![CDATA[<center>It's test</center><a id="more"></a>It's testIt's testIt's testIt's testIt's testIt's testIt's testIt's testIt's testIt's testIt's testIt's testIt's testIt's testIt's testIt's testIt's testIt's test]]></content>
+        <content type="html"><![CDATA[<center>It's test</center><a id="more"></a><hr><p>It’s test<br>It’s test<br>It’s test<br>It’s test<br>It’s test<br>It’s test<br>It’s test<br>It’s test<br>It’s test<br>It’s test<br>It’s test<br>It’s test<br>It’s test<br>It’s test<br>It’s test<br>It’s test<br>It’s test<br>It’s test</p>]]></content>
       
       
       
@@ -17,6 +17,28 @@
     
   
   
+    
+    
+    <entry>
+      <title>小说</title>
+      <link href="/novel/index.html"/>
+      <url>/novel/index.html</url>
+      
+        <content type="html"><![CDATA[<p><a href="novel.html">test</a></p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>novel</title>
+      <link href="/novel/novel.html"/>
+      <url>/novel/novel.html</url>
+      
+        <content type="html"><![CDATA[<center>novel test</center><a id="more"></a><hr><table><thead><tr><th>test</th><th>test</th></tr></thead><tbody><tr><td>test</td><td>test</td></tr><tr><td>test</td><td>test</td></tr></tbody></table>]]></content>
+      
+    </entry>
+    
     
   
 </search>
