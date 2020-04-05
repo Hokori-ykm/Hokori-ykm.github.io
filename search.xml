@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>test</title>
-      <link href="/2020/03/31/test/"/>
-      <url>/2020/03/31/test/</url>
+      <title>小说功能上线嗷</title>
+      <link href="/2020/03/31/%E5%B0%8F%E8%AF%B4%E5%8A%9F%E8%83%BD%E4%B8%8A%E7%BA%BF%E5%97%B7/"/>
+      <url>/2020/03/31/%E5%B0%8F%E8%AF%B4%E5%8A%9F%E8%83%BD%E4%B8%8A%E7%BA%BF%E5%97%B7/</url>
       
-        <content type="html"><![CDATA[<center>It's test</center><a id="more"></a><hr><p>It’s test<br>It’s test<br>It’s test<br>It’s test<br>It’s test<br>It’s test<br>It’s test<br>It’s test<br>It’s test<br>It’s test<br>It’s test<br>It’s test<br>It’s test<br>It’s test<br>It’s test<br>It’s test<br>It’s test<br>It’s test</p>]]></content>
+        <content type="html"><![CDATA[<center>小说功能上线了（虽然还没写什么）</center><a id="more"></a><hr><p>今天上线来小说功能嗷，第一部是《伊文斯事件簿》一本奇幻冒险类的小说，接下来会继续添加更多原创小说，期待吧<del>~</del></p>]]></content>
       
       
       
@@ -24,7 +24,7 @@
       <link href="/novel/index.html"/>
       <url>/novel/index.html</url>
       
-        <content type="html"><![CDATA[<p><a href="novel.html">test</a></p>]]></content>
+        <content type="html"><![CDATA[<p><a href="evans.html">1.伊文斯事件簿</a></p>]]></content>
       
     </entry>
     
@@ -36,6 +36,28 @@
       <url>/novel/novel.html</url>
       
         <content type="html"><![CDATA[<center>novel test</center><a id="more"></a><hr><table><thead><tr><th>test</th><th>test</th></tr></thead><tbody><tr><td>test</td><td>test</td></tr><tr><td>test</td><td>test</td></tr></tbody></table>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>伊文斯事件簿</title>
+      <link href="/novel/evans.html"/>
+      <url>/novel/evans.html</url>
+      
+        <content type="html"><![CDATA[<center>我是夏洛克.伊文斯，一个被遗忘的人</center><a id="more"></a><hr><table><thead><tr><th>章节</th><th>名称</th></tr></thead><tbody><tr><td>第一章(没写完)</td><td>深渊凝视</td></tr></tbody></table>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第一章 深渊凝视</title>
+      <link href="/novel/evans/one.html"/>
+      <url>/novel/evans/one.html</url>
+      
+        <content type="html"><![CDATA[<center>当你凝视着深渊时，深渊也凝视着你</center><a id="more"></a><hr><p><br><br>英国伦敦，白教堂区的一个偏僻小巷子，就在这个巷子的一个不起眼的小角落里，有一间旧书店。书店收购任何书籍，同样也出售各种书，但大多数都已经旧的不成样子来。书店的老板叫做夏洛克.伊文斯，是一个看上去很邋遢的中年男人，金色的头发随意的披散着，脸上也是胡子邋遢的，穿着一件满是污渍的咖啡色风衣就坐在书架边上的桌子前看书。<br><br><br>如同往常一样夏洛克坐在位置上看着书，边上放着一杯咖啡</p>]]></content>
       
     </entry>
     
